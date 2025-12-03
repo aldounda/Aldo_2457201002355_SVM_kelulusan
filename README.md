@@ -1,19 +1,17 @@
 # Aldo_2457201002355_SVM_kelulusan
-# Prediksi Kelulusan Mahasiswa SVM
 
-## 1. Judul Proyek
 **Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)**
 
 ---
 
-## 2. Deskripsi Dataset
+## Deskripsi Dataset
 Dataset ini berisi atribut mahasiswa, termasuk Indeks Prestasi (IPS/IPK) dan data demografis, yang digunakan untuk memprediksi status kelulusan.
 - **File Data:** `datakelulusanmahasiswa.csv`
 - **Target Variabel:** STATUS KELULUSAN (TEPAT atau TERLAMBAT)
 
 ---
 
-## 3. Tahapan Pengerjaan
+## Tahapan Pengerjaan
 
 Proyek ini diselesaikan melalui tahapan berikut:
 1.  **Preprocessing:** Feature Scaling menggunakan `StandardScaler` (Wajib untuk SVM), dan One-Hot Encoding untuk variabel kategorikal.
@@ -23,7 +21,7 @@ Proyek ini diselesaikan melalui tahapan berikut:
 
 ---
 
-## 4. Hasil Utama Pemodelan (Bagian D & E)
+## Hasil Utama Pemodelan (Bagian D & E)
 
 ### 4.1 Parameter Terbaik SVM
 | Metrik | Nilai Terbaik |
@@ -46,7 +44,7 @@ Proyek ini diselesaikan melalui tahapan berikut:
 
 ---
 
-## 5. Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 Proyek ini sepenuhnya dijalankan menggunakan Google Colab, dengan asumsi Google Drive sudah terhubung (Mounted).
 1. Struktur Repositori: Pastikan file data (`datakelulusanmahasiswa.csv`) berada di dalam folder /data pada repositori yang di-clone.
 2.  Akses Notebook: Buka file Notebook (`Aldo_2457201002355_SVM_kelulusan.ipynb`) melalui Google Colab.
@@ -57,7 +55,7 @@ Proyek ini sepenuhnya dijalankan menggunakan Google Colab, dengan asumsi Google 
 
 ---
 
-## 6. Identitas Mahasiswa
+## Identitas Mahasiswa
 
 - **Nama Mahasiswa:** ALDO
 - **NIM:** 2457201002355
