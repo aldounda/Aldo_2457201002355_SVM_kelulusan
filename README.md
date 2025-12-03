@@ -1,6 +1,6 @@
-# Aldo_2457201002355_SVM_kelulusan
+# Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)
 
-**Prediksi Kelulusan Mahasiswa Menggunakan Support Vector Machine (SVM)**
+**Aldo_2457201002355_SVM_kelulusan**
 
 ---
 
