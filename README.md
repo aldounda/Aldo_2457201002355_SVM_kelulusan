@@ -42,7 +42,7 @@ Proyek ini diselesaikan melalui tahapan berikut:
 ### 4.3 Analisis Kunci (Interpretasi Model)
 1.  **Dominasi Fitur:** Fitur **IPK** dan **IPS** menunjukkan korelasi terkuat dengan status kelulusan. Semakin tinggi IPK, semakin besar probabilitas prediksi **TEPAT** waktu.
 2.  **Keputusan Model:** Kernel **Linear** terpilih. Hal ini menyimpulkan bahwa data mahasiswa **dapat dipisahkan secara linear** (atau hampir linear) di ruang fitur yang ada, sehingga *hyperplane* garis lurus sudah cukup untuk melakukan klasifikasi dengan akurasi optimal.
-2.  **Keputusan Model:** Kernel **[RBF/Linear]** terpilih, yang menyimpulkan bahwa data [Tuliskan: **tidak** linearly separable, sehingga memerlukan *trick* kernel / **dapat** dipisahkan secara linear di ruang fitur].
+2.  **Keputusan Model:** Kernel **[RBF/Linear]** terpilih, yang menyimpulkan bahwa data **tidak** linearly separable, sehingga memerlukan *trick* kernel / **dapat** dipisahkan secara linear di ruang fitur.
 
 ---
 
